@@ -140,7 +140,59 @@
                   ],
                   "categoryId": "638",
                   "categoryTitle": "Угловые тканевые диваны"
-                }
+                },
+              {
+                  "id": "4498646",
+                  "name": "Диван-кровать Парма",
+                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 11999,
+                    "old": 14999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80327289",
+                  "rating": 5,
+                  "numberOfReviews": 247,
+                  "statusText": "Доступно для доставки 26 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
+                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
+                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
+                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
+                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
+                  ],
+                  "categoryId": "636",
+                  "categoryTitle": "Прямые тканевые диваны"
+                },
+                {
+                  "id": "5985460",
+                  "name": "Угловой диван-кровать Торонто",
+                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 17999,
+                    "old": 22999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80348561",
+                  "rating": 4,
+                  "numberOfReviews": 218,
+                  "statusText": "Доступно для доставки 4 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
+                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
+                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
+                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
+                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
+                  ],
+                  "categoryId": "638",
+                  "categoryTitle": "Угловые тканевые диваны"
+                },
             ]
         },
         {
@@ -181,48 +233,130 @@
                   "name": "Диван-кровать Парма",
                   "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
                   "isFavorite": false,
-                  "price": 11999,
-                  "oldPrice": 14999,
-                  "discount": 44,
+                  "prices": {
+                    "new": 11999,
+                    "old": 14999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
                   "articul": "80327289",
                   "rating": 5,
-                  "available": "Доступно для доставки 26 шт."
+                  "numberOfReviews": 247,
+                  "statusText": "Доступно для доставки 26 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
+                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
+                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
+                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
+                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
+                  ],
+                  "categoryId": "636",
+                  "categoryTitle": "Прямые тканевые диваны"
                 },
                 {
+                  "id": "5985460",
+                  "name": "Угловой диван-кровать Торонто",
+                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 17999,
+                    "old": 22999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80348561",
+                  "rating": 4,
+                  "numberOfReviews": 218,
+                  "statusText": "Доступно для доставки 4 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
+                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
+                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
+                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
+                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
+                  ],
+                  "categoryId": "638",
+                  "categoryTitle": "Угловые тканевые диваны"
+                },
+                {
+                  "id": "5986262",
+                  "name": "Угловой диван-кровать Торонто",
+                  "image": "https://hoff.ru/upload/iblock/2e1/2e11dabbaa3b08ba75ec51b92ec0acc9.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 17999,
+                    "old": 22999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80348560",
+                  "rating": 4,
+                  "numberOfReviews": 218,
+                  "statusText": "Доступно для доставки 22 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/abd/abd14a5e789d19c7769ec47c06fcf30e.jpg",
+                    "https://hoff.ru/upload/iblock/b6f/b6f50ca3598358fa02cdf57b01898b77.jpg",
+                    "https://hoff.ru/upload/iblock/98f/98ff1e64f2f479825b7a72f0ad8485c9.jpg",
+                    "https://hoff.ru/upload/iblock/8ce/8cede38a6662708b8065563f93a2b8cc.jpg",
+                    "https://hoff.ru/upload/iblock/c41/c416bd5bd1c55cf5eb793b34fdddb244.jpg"
+                  ],
+                  "categoryId": "638",
+                  "categoryTitle": "Угловые тканевые диваны"
+                },
+              {
                   "id": "4498646",
                   "name": "Диван-кровать Парма",
                   "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
                   "isFavorite": false,
-                  "price": 11999,
-                  "oldPrice": 14999,
-                  "discount": 44,
+                  "prices": {
+                    "new": 11999,
+                    "old": 14999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
                   "articul": "80327289",
                   "rating": 5,
-                  "available": "Доступно для доставки 26 шт."
+                  "numberOfReviews": 247,
+                  "statusText": "Доступно для доставки 26 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
+                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
+                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
+                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
+                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
+                  ],
+                  "categoryId": "636",
+                  "categoryTitle": "Прямые тканевые диваны"
                 },
                 {
-                  "id": "4498646",
-                  "name": "Диван-кровать Парма",
-                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
+                  "id": "5985460",
+                  "name": "Угловой диван-кровать Торонто",
+                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
                   "isFavorite": false,
-                  "price": 11999,
-                  "oldPrice": 14999,
-                  "discount": 44,
-                  "articul": "80327289",
-                  "rating": 5,
-                  "available": "Доступно для доставки 26 шт."
-                },
-                {
-                  "id": "4498646",
-                  "name": "Диван-кровать Парма",
-                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
-                  "isFavorite": false,
-                  "price": 11999,
-                  "oldPrice": 14999,
-                  "discount": 44,
-                  "articul": "80327289",
-                  "rating": 5,
-                  "available": "Доступно для доставки 26 шт."
+                  "prices": {
+                    "new": 17999,
+                    "old": 22999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80348561",
+                  "rating": 4,
+                  "numberOfReviews": 218,
+                  "statusText": "Доступно для доставки 4 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
+                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
+                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
+                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
+                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
+                  ],
+                  "categoryId": "638",
+                  "categoryTitle": "Угловые тканевые диваны"
                 }
             ]
         },
@@ -480,60 +614,108 @@
             "description": "Порадуйте себя и близких приятными подарками",
             "products": [
                 {
-                  "id": "123123",
-                  "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                  "discount": 43,
-                  "title": "Диван-кровать Парма",
-                  "articul": "1624827601",
-                  "description": "Где найти тайного торговца аурой",
-                  "price": 1000,
-                  "oldPrice": 2000,
-                  "button" : {
-                        "id" : "142345",
-                        "title" : "Смотреть все в стиле лофт"
-                    }
+                  "id": "4498646",
+                  "name": "Диван-кровать Парма",
+                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 11999,
+                    "old": 14999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80327289",
+                  "rating": 5,
+                  "numberOfReviews": 247,
+                  "statusText": "Доступно для доставки 26 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
+                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
+                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
+                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
+                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
+                  ],
+                  "categoryId": "636",
+                  "categoryTitle": "Прямые тканевые диваны"
                 },
                 {
-                  "id": "123123",
-                  "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                  "discount": 43,
-                  "title": "Диван-кровать Парма",
-                  "articul": "1624827601",
-                  "description": "Где найти тайного торговца аурой",
-                  "price": 1000,
-                  "oldPrice": 2000,
-                  "button" : {
-                        "id" : "142345",
-                        "title" : "Смотреть все в стиле лофт"
-                    }
+                  "id": "5985460",
+                  "name": "Угловой диван-кровать Торонто",
+                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 17999,
+                    "old": 22999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80348561",
+                  "rating": 4,
+                  "numberOfReviews": 218,
+                  "statusText": "Доступно для доставки 4 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
+                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
+                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
+                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
+                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
+                  ],
+                  "categoryId": "638",
+                  "categoryTitle": "Угловые тканевые диваны"
+                },
+              {
+                  "id": "4498646",
+                  "name": "Диван-кровать Парма",
+                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 11999,
+                    "old": 14999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80327289",
+                  "rating": 5,
+                  "numberOfReviews": 247,
+                  "statusText": "Доступно для доставки 26 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
+                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
+                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
+                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
+                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
+                  ],
+                  "categoryId": "636",
+                  "categoryTitle": "Прямые тканевые диваны"
                 },
                 {
-                  "id": "123123",
-                  "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                  "discount": 43,
-                  "title": "Диван-кровать Парма",
-                  "articul": "1624827601",
-                  "description": "Где найти тайного торговца аурой",
-                  "price": 1000,
-                  "oldPrice": 2000,
-                  "button" : {
-                        "id" : "142345",
-                        "title" : "Смотреть все в стиле лофт"
-                    }
-                },
-                {
-                  "id": "123123",
-                  "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                  "discount": 43,
-                  "title": "Диван-кровать Парма",
-                  "articul": "1624827601",
-                  "description": "Где найти тайного торговца аурой",
-                  "price": 1000,
-                  "oldPrice": 2000,
-                  "button" : {
-                        "id" : "142345",
-                        "title" : "Смотреть все в стиле лофт"
-                    }
+                  "id": "5985460",
+                  "name": "Угловой диван-кровать Торонто",
+                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                    "new": 17999,
+                    "old": 22999
+                  },
+                  "isBestPrice": false,
+                  "tag": null,
+                  "articul": "80348561",
+                  "rating": 4,
+                  "numberOfReviews": 218,
+                  "statusText": "Доступно для доставки 4 шт.",
+                  "isAvailable": true,
+                  "images": [
+                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
+                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
+                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
+                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
+                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
+                  ],
+                  "categoryId": "638",
+                  "categoryTitle": "Угловые тканевые диваны"
                 }
             ]
         },
