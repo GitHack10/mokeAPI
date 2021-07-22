@@ -72,17 +72,12 @@
                     "new": 11999,
                     "old": 14999
                   },
-                  "full_set_prices": null,
                   "isBestPrice": false,
                   "tag": null,
                   "articul": "80327289",
                   "rating": 5,
                   "numberOfReviews": 247,
-                  "yellow": false,
                   "statusText": "Доступно для доставки 26 шт.",
-                  "bonusesForbuy": 240,
-                  "deliveryTime": null,
-                  "is_it_kit": 1,
                   "isAvailable": true,
                   "images": [
                     "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
@@ -91,7 +86,6 @@
                     "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
                     "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
                   ],
-                  "complexAsOne": null,
                   "categoryId": "636",
                   "categoryTitle": "Прямые тканевые диваны"
                 },
@@ -104,17 +98,12 @@
                     "new": 17999,
                     "old": 22999
                   },
-                  "full_set_prices": null,
                   "isBestPrice": false,
                   "tag": null,
                   "articul": "80348561",
                   "rating": 4,
                   "numberOfReviews": 218,
-                  "yellow": false,
                   "statusText": "Доступно для доставки 4 шт.",
-                  "bonusesForbuy": 360,
-                  "deliveryTime": null,
-                  "is_it_kit": 1,
                   "isAvailable": true,
                   "images": [
                     "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
@@ -123,7 +112,6 @@
                     "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
                     "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
                   ],
-                  "complexAsOne": null,
                   "categoryId": "638",
                   "categoryTitle": "Угловые тканевые диваны"
                 },
@@ -136,17 +124,12 @@
                     "new": 17999,
                     "old": 22999
                   },
-                  "full_set_prices": null,
                   "isBestPrice": false,
                   "tag": null,
                   "articul": "80348560",
                   "rating": 4,
                   "numberOfReviews": 218,
-                  "yellow": false,
                   "statusText": "Доступно для доставки 22 шт.",
-                  "bonusesForbuy": 360,
-                  "deliveryTime": null,
-                  "is_it_kit": 1,
                   "isAvailable": true,
                   "images": [
                     "https://hoff.ru/upload/iblock/abd/abd14a5e789d19c7769ec47c06fcf30e.jpg",
@@ -155,7 +138,6 @@
                     "https://hoff.ru/upload/iblock/8ce/8cede38a6662708b8065563f93a2b8cc.jpg",
                     "https://hoff.ru/upload/iblock/c41/c416bd5bd1c55cf5eb793b34fdddb244.jpg"
                   ],
-                  "complexAsOne": null,
                   "categoryId": "638",
                   "categoryTitle": "Угловые тканевые диваны"
                 }
