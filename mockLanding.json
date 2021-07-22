@@ -173,10 +173,12 @@
                 "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
               ],
               "articul": "1624827601",
+              "id": "4498646",
               "name": "Диван-кровать Парма",
-              "price": 1000,
-              "oldPrice": 2000,
-              "discount": 43
+              "prices": {
+                "new": 11999,
+                "old": 14999
+              }
             },
             "button" : {
                 "id" : "12345",
