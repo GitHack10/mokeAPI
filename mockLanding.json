@@ -161,7 +161,7 @@
               "name": "Диван-кровать Парма",
               "prices": {
                   "new": 1000,
-                  "old": 2000,
+                  "old": 2000
               },
               "discount": 43,
               "isBestPrice": false
