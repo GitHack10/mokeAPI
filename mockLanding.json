@@ -152,6 +152,29 @@
             ]
         },
         {
+            "id" : "5",
+            "type" : "PRODUCT_ITEM",
+            "product": {
+              "images": [
+                "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg", 
+                "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg", 
+                "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg", 
+                "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg", 
+                "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
+              ],
+              "articul": "1624827601",
+              "name": "Диван-кровать Парма",
+              "price": 1000,
+              "oldPrice": 2000,
+              "discount": 43,
+              "isBestPrice": false
+            },
+            "button" : {
+                "id" : "12345",
+                "title" : "Подробнее"
+            }
+        },
+        {
             "id" : "6",
             "type" : "HORIZONTAL_PRODUCTS",
             "title": "Диваны и кресла",
@@ -295,7 +318,7 @@
         {
             "id" : "18",
             "type" : "CREDITLINE_INFO",
-            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in leo sollicitudin, blandit nunc quis, euismod leo.",
+            "title": "* «Рассрочка» - это название акции, товары продаются в кредит. Сроки акции: 03.08.2020 – 31.08.2020. ООО «Хоум Кредит энд Финанс Банк»(лицензия ЦБ РФ № 316 от 15.03.12 г.). Сумма кредита от 5 000 до 500 000 р; Срок кредита: 24 мес.; ставка - 9,05% годовых; первоначальный взнос – 0%; удорожание товаране происходит за счёт предоставления скидки магазинами розничной сети Hoff; отсутствие переплаты. Количество товаров ограничено. Подробности акции уточняйтев магазинах и на hoff.ru. ООО «Домашний интерьер», ОГРН: 1077763747269, 123290, Москва Г, Магистральный 1-й пр, д. 11, стр. 1, пом. II эт. 2 ком. 54.",
             "buttons": [
                 {
                     "id" : "223",
