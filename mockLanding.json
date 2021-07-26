@@ -11,6 +11,49 @@
             }
         },
         {
+            "id" : "2",
+            "type" : "MENU",
+            "title": "Меню",
+            "menuItems" : [
+                {
+                    "id": "1",
+                    "name" : "Блок меню 1"
+                },
+                {
+                    "id": "2",
+                    "name" : "Блок меню 2"
+                },
+                {
+                    "id": "3",
+                    "name" : "Блок меню 3"
+                },
+                {
+                    "id": "4",
+                    "name" : "Блок меню 4"
+                },
+                {
+                    "id": "5",
+                    "name" : "Блок меню 5"
+                },
+                {
+                    "id": "6",
+                    "name" : "Блок меню 6"
+                },
+                {
+                    "id": "7",
+                    "name" : "Блок меню 7"
+                }
+            ]
+        },
+        {
+            "id" : "3",
+            "type" : "TIMER",
+            "eventTimer": {
+              "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+              "time": 1624827601
+            }
+        },
+        {
             "id" : "4",
             "type" : "PRODUCTS",
             "title": "Обеденные группы",
@@ -24,6 +67,7 @@
                   "name": "Диван-кровать Парма",
                   "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
                   "isFavorite": false,
+                  "discount": 60,
                   "prices": {
                     "new": 11999,
                     "old": 14999
@@ -50,11 +94,12 @@
                   "name": "Угловой диван-кровать Торонто",
                   "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
                   "isFavorite": false,
+                  "discount": 60,
                   "prices": {
                     "new": 17999,
                     "old": 22999
                   },
-                  "isBestPrice": false,
+                  "isBestPrice": true,
                   "tag": null,
                   "articul": "80348561",
                   "rating": 4,
@@ -76,6 +121,7 @@
                   "name": "Угловой диван-кровать Торонто",
                   "image": "https://hoff.ru/upload/iblock/2e1/2e11dabbaa3b08ba75ec51b92ec0acc9.jpg",
                   "isFavorite": false,
+                  "discount": 60,
                   "prices": {
                     "new": 17999,
                     "old": 22999
@@ -96,58 +142,6 @@
                   ],
                   "categoryId": "638",
                   "categoryTitle": "Угловые тканевые диваны"
-                },
-                {
-                  "id": "4498646",
-                  "name": "Диван-кровать Парма",
-                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
-                  "isFavorite": false,
-                  "prices": {
-                    "new": 11999,
-                    "old": 14999
-                  },
-                  "isBestPrice": false,
-                  "tag": null,
-                  "articul": "80327289",
-                  "rating": 5,
-                  "numberOfReviews": 247,
-                  "statusText": "Доступно для доставки 26 шт.",
-                  "isAvailable": true,
-                  "images": [
-                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
-                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
-                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
-                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
-                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
-                  ],
-                  "categoryId": "636",
-                  "categoryTitle": "Прямые тканевые диваны"
-                },
-                {
-                  "id": "5985460",
-                  "name": "Угловой диван-кровать Торонто",
-                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
-                  "isFavorite": false,
-                  "prices": {
-                    "new": 17999,
-                    "old": 22999
-                  },
-                  "isBestPrice": false,
-                  "tag": null,
-                  "articul": "80348561",
-                  "rating": 4,
-                  "numberOfReviews": 218,
-                  "statusText": "Доступно для доставки 4 шт.",
-                  "isAvailable": true,
-                  "images": [
-                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
-                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
-                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
-                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
-                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
-                  ],
-                  "categoryId": "638",
-                  "categoryTitle": "Угловые тканевые диваны"
                 }
             ]
         },
@@ -162,12 +156,12 @@
                 "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg", 
                 "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
               ],
-              "id": "4498646",
+              "id": "5986262",
               "articul": "1624827601",
               "name": "Диван-кровать Парма",
               "prices": {
-                "new": 17999,
-                "old": 22999
+                  "new": 1000,
+                  "old": 2000,
               },
               "discount": 43,
               "isBestPrice": false
@@ -192,77 +186,14 @@
                   "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
                   "isFavorite": false,
                   "prices": {
-                    "new": 11999,
-                    "old": 14999
+                      "new": 11999,
+                      "old": 14999
                   },
+                  "discount": 44,
                   "isBestPrice": false,
-                  "tag": null,
                   "articul": "80327289",
                   "rating": 5,
-                  "numberOfReviews": 247,
-                  "statusText": "Доступно для доставки 26 шт.",
-                  "isAvailable": true,
-                  "images": [
-                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
-                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
-                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
-                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
-                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
-                  ],
-                  "categoryId": "636",
-                  "categoryTitle": "Прямые тканевые диваны"
-                },
-                {
-                  "id": "5985460",
-                  "name": "Угловой диван-кровать Торонто",
-                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
-                  "isFavorite": false,
-                  "prices": {
-                    "new": 17999,
-                    "old": 22999
-                  },
-                  "isBestPrice": false,
-                  "tag": null,
-                  "articul": "80348561",
-                  "rating": 4,
-                  "numberOfReviews": 218,
-                  "statusText": "Доступно для доставки 4 шт.",
-                  "isAvailable": true,
-                  "images": [
-                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
-                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
-                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
-                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
-                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
-                  ],
-                  "categoryId": "638",
-                  "categoryTitle": "Угловые тканевые диваны"
-                },
-                {
-                  "id": "5986262",
-                  "name": "Угловой диван-кровать Торонто",
-                  "image": "https://hoff.ru/upload/iblock/2e1/2e11dabbaa3b08ba75ec51b92ec0acc9.jpg",
-                  "isFavorite": false,
-                  "prices": {
-                    "new": 17999,
-                    "old": 22999
-                  },
-                  "isBestPrice": false,
-                  "tag": null,
-                  "articul": "80348560",
-                  "rating": 4,
-                  "numberOfReviews": 218,
-                  "statusText": "Доступно для доставки 22 шт.",
-                  "isAvailable": true,
-                  "images": [
-                    "https://hoff.ru/upload/iblock/abd/abd14a5e789d19c7769ec47c06fcf30e.jpg",
-                    "https://hoff.ru/upload/iblock/b6f/b6f50ca3598358fa02cdf57b01898b77.jpg",
-                    "https://hoff.ru/upload/iblock/98f/98ff1e64f2f479825b7a72f0ad8485c9.jpg",
-                    "https://hoff.ru/upload/iblock/8ce/8cede38a6662708b8065563f93a2b8cc.jpg",
-                    "https://hoff.ru/upload/iblock/c41/c416bd5bd1c55cf5eb793b34fdddb244.jpg"
-                  ],
-                  "categoryId": "638",
-                  "categoryTitle": "Угловые тканевые диваны"
+                  "available": "Доступно для доставки 26 шт."
                 },
                 {
                   "id": "4498646",
@@ -270,58 +201,366 @@
                   "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
                   "isFavorite": false,
                   "prices": {
-                    "new": 11999,
-                    "old": 14999
+                      "new": 11999,
+                      "old": 14999
                   },
+                  "discount": 44,
                   "isBestPrice": false,
-                  "tag": null,
                   "articul": "80327289",
                   "rating": 5,
-                  "numberOfReviews": 247,
-                  "statusText": "Доступно для доставки 26 шт.",
-                  "isAvailable": true,
-                  "images": [
-                    "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
-                    "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
-                    "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
-                    "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
-                    "https://hoff.ru/upload/iblock/8c3/8c3441f9752f5d5cab59bea1ff7259ca.jpg"
-                  ],
-                  "categoryId": "636",
-                  "categoryTitle": "Прямые тканевые диваны"
+                  "available": "Доступно для доставки 26 шт."
                 },
                 {
-                  "id": "5985460",
-                  "name": "Угловой диван-кровать Торонто",
-                  "image": "https://hoff.ru/upload/iblock/db0/db089cba6a076b42a30395d9ea73c3df.jpg",
+                  "id": "4498646",
+                  "name": "Диван-кровать Парма",
+                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
                   "isFavorite": false,
                   "prices": {
-                    "new": 17999,
-                    "old": 22999
+                      "new": 11999,
+                      "old": 14999
                   },
+                  "discount": 44,
                   "isBestPrice": false,
-                  "tag": null,
-                  "articul": "80348561",
-                  "rating": 4,
-                  "numberOfReviews": 218,
-                  "statusText": "Доступно для доставки 4 шт.",
-                  "isAvailable": true,
-                  "images": [
-                    "https://hoff.ru/upload/iblock/d5e/d5e398dd6b29e665db394dc619591223.jpg",
-                    "https://hoff.ru/upload/iblock/3c7/3c79fd25caf4f3567c121186c5eb3d93.jpg",
-                    "https://hoff.ru/upload/iblock/6fe/6fefd3759ad87a9b576e0a69f2253b7a.jpg",
-                    "https://hoff.ru/upload/iblock/c33/c334ebfe4838f73ea428c4a41ef776d6.jpg",
-                    "https://hoff.ru/upload/iblock/16c/16c5c47ecd6d2407611d3550cbdba674.jpg"
-                  ],
-                  "categoryId": "638",
-                  "categoryTitle": "Угловые тканевые диваны"
+                  "articul": "80327289",
+                  "rating": 5,
+                  "available": "Доступно для доставки 26 шт."
+                },
+                {
+                  "id": "4498646",
+                  "name": "Диван-кровать Парма",
+                  "image": "https://hoff.ru/upload/iblock/4d8/4d866970f2b2f2e343194aec8e783283.jpg",
+                  "isFavorite": false,
+                  "prices": {
+                      "new": 11999,
+                      "old": 14999
+                  },
+                  "discount": 44,
+                  "isBestPrice": false,
+                  "articul": "80327289",
+                  "rating": 5,
+                  "available": "Доступно для доставки 26 шт."
                 }
             ]
         },
         {
+            "id" : "7",
+            "type" : "SERVICE_REGISTRATION",
+            "title": "Оформление услуги",
+            "description": "Услугу доставки можно офрмить и оплатить",
+            "services": [
+                {
+                    "title" : "При покупке товара в гипермаркете Hoff",
+                    "icon" : "ссылка на иконку",
+                    "list": []
+                },
+                {
+                    "title": "При покупке в Интернет-магазине",
+                    "icon" : "ссылка на иконку",
+                    "list": [
+                      "в момент доставки товара (наличными средствами)",
+                      "на сайте, в момент оплаты заказа банковской картой"
+                    ]
+                }
+            ]
+        },
+        {
+            "id" : "8",
+            "type" : "CATEGORIES",
+            "categories" : [
+                {
+                    "id": "242322",
+                    "title": "Кресла",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 60
+                },
+                {
+                    "id": "424242",
+                    "title": "Журнальные столики",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 40
+                },
+                {
+                    "id": "524243",
+                    "title": "Диваны",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 37
+                },
+                {
+                    "id": "434422",
+                    "title": "Тумбы для офиса",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 70
+                }
+            ]
+        },
+        {
+            "id" : "9",
+            "type" : "SERVICES_ADDITIONAL",
+            "title": "Услуги и сервисы",
+            "serviceInfo": [
+                {
+                    "title": "Доставка",
+                    "icon": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "description": "Доставляем 7 дней в неделю. Доставка осуществляется в течение двух дней со дня покупки или в иные сроки, согласованные при покупке.",
+                    "info": "Бесплатная доставка товаров для дома, при покупке от 1999 рублей.",
+                    "button" : {
+                      "link": "ссылка на страницу",
+                      "title" : "Смотреть тарифы"
+                    } 
+                },
+                {
+                    "title": "Вывоз старой мебели",
+                    "icon": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "description": "Вместе с доставкой мы можем вывести вашу старую мебель: диваны, кресла или матрасы.",
+                    "info": "Адрес вывоза товара для утилизации должен совпадать с адресом доставки нового товара.",
+                    "button" : {
+                      "link": "ссылка на страницу",
+                      "title" : "Смотреть тарифы"
+                    } 
+                },
+                {
+                    "title": "Подъем и занос",
+                    "icon": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "description": "Одновременно с доставкой новой мебели по адресу, мы можем занести её к вам домой.",
+                    "info": "Услуга предоставляется только при заказе доставки, и оплачивается отдельно.",
+                    "button" : {
+                      "link": "ссылка на страницу",
+                      "title" : "Смотреть тарифы"
+                    } 
+                }
+            ]
+        },
+        {
+            "id" : "10",
+            "type" : "DESCRIPTION_PRODUCT_CATEGORIES",
+            "title": "Гостиная",
+            "description": "Скандинавский стиль можно реализовать как в миниатюрной, так и в просторной гостиной, а также в совмещенной планировке: зональность только приветствуется.",
+            "productsCategories": [
+                {
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Ковер",
+                    "description": "Уютный ковер — must-have. Выберите однотонный или с геометрическим узором, не обязательно большой. Главное, застелить ковром зону отдыха у дивана."
+                },
+                {
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Естественный свет",
+                    "description": "Не вешайте на окна тяжелые шторы, ограничьтесь тюлем или вовсе оставьте их открытыми, будет больше света."
+                },
+                {
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Декоративные подушки",
+                    "description": "Смело берите разные оттенки и узоры: при общей монохромности скандинавского стиля такие цветные акценты будут кстати."
+                }
+            ]
+        },
+        {
+            "id" : "11",
+            "type" : "PRODUCTS_WITH_PHOTO",
+            "button" : {
+                "id" : "12345",
+                "title" : "Смотреть товары с фото"
+            },
+            "productsWithPhoto": {
+              "banner" : "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+              "products": [
+                  {
+                      "id": "String2",
+                      "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
+                  },
+                  {
+                      "id": "String3",
+                      "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
+                  }
+              ]
+            }
+        },
+        {
+            "id" : "12",
+            "type" : "SLIDER_DESCRIPTION",
+            "sliders": [
+                {
+                    "id": "123456",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Больше «воздуха»",
+                    "description": "Центр комнаты — диван, кресла, ковер и журнальный столик. Громоздкие шкафы лучше заменить небольшими стенками и стеллажами, чтобы осталось больше свободного пространства."
+                },
+                {
+                    "id": "324234",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Больше «воздуха»",
+                    "description": "Центр комнаты — диван, кресла, ковер и журнальный столик. Громоздкие шкафы лучше заменить небольшими стенками и стеллажами, чтобы осталось больше свободного пространства."
+                },
+                {
+                    "id": "413245",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Больше «воздуха»",
+                    "description": "Центр комнаты — диван, кресла, ковер и журнальный столик. Громоздкие шкафы лучше заменить небольшими стенками и стеллажами, чтобы осталось больше свободного пространства."
+                }
+            ]
+        },
+        {
+            "id" : "13",
+            "type" : "VIDEO",
+            "videoRecommend":  {
+              "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+              "link": "https://www.youtube.com/embed/dfWQjrdpiP8",
+              "title" : "Советы дизайнера: как подобрать освещение",
+              "unnumberatedInfo": [
+                  "по типу комнаты",
+                  "по расположению",
+                  "по типу комнаты",
+                  "по мощности"   
+              ]
+            }
+        },
+        {
+            "id" : "14",
+            "type" : "RECOMMENDS_INFO",
+            "recommendInfo": {
+              "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+              "title": "Как замерить окно для штор",
+              "unnumberatedInfo": [
+                  {
+                      "title": "Выбирайте готовые шторы если:",
+                      "list": [
+                          "У вас стандартная высота потолка",
+                          "Хочется сэкономить время"
+                      ]
+                  },
+                  {
+                      "title": "Стоит выбрать шторы под заказ если:",
+                      "list": [
+                          "У вас стандартная высота потолка",
+                          "Хочется сэкономить время"
+                      ]
+                  }
+                ]
+            }
+        },
+        {
+            "id" : "15",
+            "type" : "CATEGORIES",
+            "button" : {
+                "id" : "12345",
+                "title" : "Смотреть все в стиле лофт"
+            },
+            "categories": [
+                {
+                    "id": "123456",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Кровати в стиле лофт",
+                    "discount": null
+                },
+                {
+                    "id": "212343",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Шкафы в стиле лофт",
+                    "discount": null
+                },
+                {
+                    "id": "342532",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "title": "Столы в стиле лофт",
+                    "discount": null
+                }
+            ]
+        },
+        {
+            "id" : "16",
+            "type" : "ADDITIONAL_RECOMMEND_INFO",
+            "title": "Всех гостей к столу!",
+            "description": "Всех гостей к столу! Где найти тайного торговца аурой Где найти тайного торговца аурой",
+            "additionalRecomendInfo": {
+              "unnumberatedInfo": [
+                  "Акционные товары продаются со скидками",
+                  "Товар участвующий в акции не может быть оплачен с использованием бонусных рублей.",
+                  "Акционные товары можно преобрести в кредит."
+              ]
+            }
+        },
+        {
+            "id" : "17",
+            "type" : "GIFTS_IDEA",
+            "title": "Идея для подарков!",
+            "description": "Порадуйте себя и близких приятными подарками",
+            "gifts": {
+                "question": "Как обустроить посадочные места у стола, чтобы это выглядело стильно и гармонично?",
+                "products": [
+                    {
+                        "id": "123123",
+                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                        "discount": 43,
+                        "title": "Диван-кровать Парма",
+                        "articul": "1624827601",
+                        "description": "Где найти тайного торговца аурой",
+                        "prices": {
+                            "new": 1000,
+                            "old": 2000
+                        },
+                        "isBestPrice": false,
+                        "button" : {
+                            "id" : "142345",
+                            "title" : "Смотреть все в стиле лофт"
+                        }
+                    },
+                    {
+                        "id": "123123",
+                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                        "discount": 43,
+                        "title": "Диван-кровать Парма",
+                        "articul": "1624827601",
+                        "description": "Где найти тайного торговца аурой",
+                        "prices": {
+                            "new": 1000,
+                            "old": 2000
+                        },
+                        "isBestPrice": false,
+                        "button": {
+                            "id" : "142345",
+                            "title" : "Смотреть все в стиле лофт"
+                        }
+                    },
+                    {
+                        "id": "123123",
+                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                        "discount": 43,
+                        "title": "Диван-кровать Парма",
+                        "articul": "1624827601",
+                        "description": "Где найти тайного торговца аурой",
+                        "prices": {
+                            "new": 1000,
+                            "old": 2000
+                        },
+                        "isBestPrice": true,
+                        "button" : {
+                            "id" : "142345",
+                            "title" : "Смотреть все в стиле лофт"
+                        }
+                    },
+                    {
+                        "id": "123123",
+                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                        "discount": 43,
+                        "title": "Диван-кровать Парма",
+                        "articul": "1624827601",
+                        "description": "Где найти тайного торговца аурой",
+                        "prices": {
+                            "new": 1000,
+                            "old": 2000
+                        },
+                        "isBestPrice": false,
+                        "button" : {
+                            "id" : "142345",
+                            "title" : "Смотреть все в стиле лофт"
+                        }
+                    }
+                ]
+            }
+        },
+        {
             "id" : "18",
             "type" : "CREDITLINE_INFO",
-            "title": "* «Рассрочка» - это название акции, товары продаются в кредит. Сроки акции: 03.08.2020 – 31.08.2020. ООО «Хоум Кредит энд Финанс Банк»(лицензия ЦБ РФ № 316 от 15.03.12 г.). Сумма кредита от 5 000 до 500 000 р; Срок кредита: 24 мес.; ставка - 9,05% годовых; первоначальный взнос – 0%; удорожание товаране происходит за счёт предоставления скидки магазинами розничной сети Hoff; отсутствие переплаты. Количество товаров ограничено. Подробности акции уточняйтев магазинах и на hoff.ru. ООО «Домашний интерьер», ОГРН: 1077763747269, 123290, Москва Г, Магистральный 1-й пр, д. 11, стр. 1, пом. II эт. 2 ком. 54.",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in leo sollicitudin, blandit nunc quis, euismod leo.",
             "buttons": [
                 {
                     "id" : "223",
@@ -355,19 +594,18 @@
             "title": "Категории",
             "categories": [
                   {
-                      "id": "String1",
+                      "id": "123123",
                       "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
                   },
                   {
-                      "id": "String2",
+                      "id": "234234",
                       "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
                   },
                   {
-                      "id": "String3",
+                      "id": "345345",
                       "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg"
                   }
             ]
         }
     ]
-
 }
