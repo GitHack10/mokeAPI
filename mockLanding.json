@@ -164,8 +164,10 @@
               ],
               "articul": "1624827601",
               "name": "Диван-кровать Парма",
-              "price": 1000,
-              "oldPrice": 2000,
+              "prices": {
+                "new": 17999,
+                "old": 22999
+              },
               "discount": 43,
               "isBestPrice": false
             },
