@@ -270,25 +270,25 @@
                 {
                     "id": "242322",
                     "title": "Кресла",
-                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "image": "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
                     "discount": 60
                 },
                 {
                     "id": "424242",
                     "title": "Журнальные столики",
-                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "image": "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
                     "discount": 40
                 },
                 {
                     "id": "524243",
                     "title": "Диваны",
-                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "image": "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
                     "discount": 37
                 },
                 {
                     "id": "434422",
                     "title": "Тумбы для офиса",
-                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "image": "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
                     "discount": 70
                 }
             ]
@@ -446,21 +446,27 @@
             },
             "categories": [
                 {
-                    "id": "123456",
-                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                    "title": "Кровати в стиле лофт",
+                    "id": "242322",
+                    "title": "Кресла",
+                    "image": "https://hoff.ru/upload/iblock/a29/a292dc8e3ecff8e4472a544f816c8124.jpg",
                     "discount": null
                 },
                 {
-                    "id": "212343",
-                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                    "title": "Шкафы в стиле лофт",
+                    "id": "424242",
+                    "title": "Журнальные столики",
+                    "image": "https://hoff.ru/upload/iblock/57b/57bd470d70afa7d23a7e8325feefdf23.jpg",
                     "discount": null
                 },
                 {
-                    "id": "342532",
-                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                    "title": "Столы в стиле лофт",
+                    "id": "524243",
+                    "title": "Диваны",
+                    "image": "https://hoff.ru/upload/iblock/e67/e6720679858fb6ead7047d20ec6c69ce.jpg",
+                    "discount": null
+                },
+                {
+                    "id": "434422",
+                    "title": "Тумбы для офиса",
+                    "image": "https://hoff.ru/upload/iblock/b07/b078073cbfcea39d91b3a3786b75650b.jpg",
                     "discount": null
                 }
             ]
