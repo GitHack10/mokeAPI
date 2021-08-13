@@ -471,11 +471,12 @@
             "title": "Всех гостей к столу!",
             "description": "Всех гостей к столу! Где найти тайного торговца аурой Где найти тайного торговца аурой",
             "additionalRecomendInfo": {
-              "unnumberatedInfo": [
-                  "Акционные товары продаются со скидками",
-                  "Товар участвующий в акции не может быть оплачен с использованием бонусных рублей.",
-                  "Акционные товары можно преобрести в кредит."
-              ]
+                "question": "Как обустроить посадочные места у стола, чтобы это выглядело стильно и гармонично?",
+                "unnumberatedInfo": [
+                    "Акционные товары продаются со скидками",
+                    "Товар участвующий в акции не может быть оплачен с использованием бонусных рублей.",
+                    "Акционные товары можно преобрести в кредит."
+                ]
             }
         },
         {
@@ -483,79 +484,76 @@
             "type" : "GIFTS_IDEA",
             "title": "Идея для подарков!",
             "description": "Порадуйте себя и близких приятными подарками",
-            "gifts": {
-                "question": "Как обустроить посадочные места у стола, чтобы это выглядело стильно и гармонично?",
-                "products": [
-                    {
-                        "id": "123123",
-                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                        "discount": 43,
-                        "title": "Диван-кровать Парма",
-                        "articul": "1624827601",
-                        "description": "Где найти тайного торговца аурой",
-                        "prices": {
-                            "new": 1000,
-                            "old": 2000
-                        },
-                        "isBestPrice": false,
-                        "button" : {
-                            "id" : "142345",
-                            "title" : "Смотреть все в стиле лофт"
-                        }
+            "products": [
+                {
+                    "id": "123123",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 43,
+                    "title": "Диван-кровать Парма",
+                    "articul": "1624827601",
+                    "description": "Где найти тайного торговца аурой",
+                    "prices": {
+                        "new": 1000,
+                        "old": 2000
                     },
-                    {
-                        "id": "123123",
-                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                        "discount": 43,
-                        "title": "Диван-кровать Парма",
-                        "articul": "1624827601",
-                        "description": "Где найти тайного торговца аурой",
-                        "prices": {
-                            "new": 1000,
-                            "old": 2000
-                        },
-                        "isBestPrice": false,
-                        "button": {
-                            "id" : "142345",
-                            "title" : "Смотреть все в стиле лофт"
-                        }
-                    },
-                    {
-                        "id": "123123",
-                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                        "discount": 43,
-                        "title": "Диван-кровать Парма",
-                        "articul": "1624827601",
-                        "description": "Где найти тайного торговца аурой",
-                        "prices": {
-                            "new": 1000,
-                            "old": 2000
-                        },
-                        "isBestPrice": true,
-                        "button" : {
-                            "id" : "142345",
-                            "title" : "Смотреть все в стиле лофт"
-                        }
-                    },
-                    {
-                        "id": "123123",
-                        "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
-                        "discount": 43,
-                        "title": "Диван-кровать Парма",
-                        "articul": "1624827601",
-                        "description": "Где найти тайного торговца аурой",
-                        "prices": {
-                            "new": 1000,
-                            "old": 2000
-                        },
-                        "isBestPrice": false,
-                        "button" : {
-                            "id" : "142345",
-                            "title" : "Смотреть все в стиле лофт"
-                        }
+                    "isBestPrice": false,
+                    "button" : {
+                        "id" : "142345",
+                        "title" : "Смотреть все в стиле лофт"
                     }
-                ]
-            }
+                },
+                {
+                    "id": "123123",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 43,
+                    "title": "Диван-кровать Парма",
+                    "articul": "1624827601",
+                    "description": "Где найти тайного торговца аурой",
+                    "prices": {
+                        "new": 1000,
+                        "old": 2000
+                    },
+                    "isBestPrice": false,
+                    "button": {
+                        "id" : "142345",
+                        "title" : "Смотреть все в стиле лофт"
+                    }
+                },
+                {
+                    "id": "123123",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 43,
+                    "title": "Диван-кровать Парма",
+                    "articul": "1624827601",
+                    "description": "Где найти тайного торговца аурой",
+                    "prices": {
+                        "new": 1000,
+                        "old": 2000
+                    },
+                    "isBestPrice": true,
+                    "button" : {
+                        "id" : "142345",
+                        "title" : "Смотреть все в стиле лофт"
+                    }
+                },
+                {
+                    "id": "123123",
+                    "image": "https://hoff.ru/upload/iblock/5e8/5e81fa8ba4f98ca461c251fd461138b0.jpg",
+                    "discount": 43,
+                    "title": "Диван-кровать Парма",
+                    "articul": "1624827601",
+                    "description": "Где найти тайного торговца аурой",
+                    "prices": {
+                        "new": 1000,
+                        "old": 2000
+                    },
+                    "isBestPrice": false,
+                    "button" : {
+                        "id" : "142345",
+                        "title" : "Смотреть все в стиле лофт"
+                    }
+                }
+            ]
         },
         {
             "id" : "18",
