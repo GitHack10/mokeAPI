@@ -250,12 +250,12 @@
             "services": [
                 {
                     "title" : "При покупке товара в гипермаркете Hoff",
-                    "icon" : "ссылка на иконку",
+                    "icon" : "https://github.com/GitHack10/mokeAPI/blob/master/market.png?raw=true",
                     "list": []
                 },
                 {
                     "title": "При покупке в Интернет-магазине",
-                    "icon" : "ссылка на иконку",
+                    "icon" : "https://github.com/GitHack10/mokeAPI/blob/master/Frame%2027.png?raw=true",
                     "list": [
                       "в момент доставки товара (наличными средствами)",
                       "на сайте, в момент оплаты заказа банковской картой"
