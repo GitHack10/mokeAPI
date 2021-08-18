@@ -300,7 +300,7 @@
             "serviceInfo": [
                 {
                     "title": "Доставка",
-                    "icon": "https://raw.githubusercontent.com/GitHack10/mokeAPI/fe25a37824708450c624c9ea07239d4a16b6507e/ic_delivery.svg",
+                    "icon": "https://github.com/GitHack10/mokeAPI/blob/master/image%2013.png?raw=true",
                     "description": "Доставляем 7 дней в неделю. Доставка осуществляется в течение двух дней со дня покупки или в иные сроки, согласованные при покупке.",
                     "info": "Бесплатная доставка товаров для дома, при покупке от 1999 рублей.",
                     "button" : {
@@ -310,7 +310,7 @@
                 },
                 {
                     "title": "Вывоз старой мебели",
-                    "icon": "https://raw.githubusercontent.com/GitHack10/mokeAPI/fe25a37824708450c624c9ea07239d4a16b6507e/ic_furniture.svg",
+                    "icon": "https://github.com/GitHack10/mokeAPI/blob/master/image%2013-1.png?raw=true",
                     "description": "Вместе с доставкой мы можем вывести вашу старую мебель: диваны, кресла или матрасы.",
                     "info": "Адрес вывоза товара для утилизации должен совпадать с адресом доставки нового товара.",
                     "button" : {
@@ -320,7 +320,7 @@
                 },
                 {
                     "title": "Подъем и занос",
-                    "icon": "https://raw.githubusercontent.com/GitHack10/mokeAPI/fe25a37824708450c624c9ea07239d4a16b6507e/ic_get_up.svg",
+                    "icon": "https://github.com/GitHack10/mokeAPI/blob/master/image%2013-2.png?raw=true",
                     "description": "Одновременно с доставкой новой мебели по адресу, мы можем занести её к вам домой.",
                     "info": "Услуга предоставляется только при заказе доставки, и оплачивается отдельно.",
                     "button" : {
@@ -330,7 +330,7 @@
                 },
                 {
                     "title": "Сборка и установка",
-                    "icon": "https://raw.githubusercontent.com/GitHack10/mokeAPI/fe25a37824708450c624c9ea07239d4a16b6507e/ic_building.svg",
+                    "icon": "https://github.com/GitHack10/mokeAPI/blob/master/image%2013-3.png?raw=true",
                     "description": "Мы соберём вашу новую мебель и кухонные гарнитуры, установим бытовую технику и свет.",
                     "info": "Наши специалисты оснащены профессиональным инструментами и обладают знаниями о технологических особенностях изготовления мебельных изделий.",
                     "button" : {
